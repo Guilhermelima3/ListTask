@@ -19,6 +19,3 @@ Uma simples lista de tarefas para exercitar o conhecimento no Laravel.
 - Linkedin  [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-marinho-242635196)
 - E-mail [guilhermel_ima@hotmail.com]
 ---
-
-## License
-Projeto licenciado sob a[MIT license](https://opensource.org/licenses/MIT).
