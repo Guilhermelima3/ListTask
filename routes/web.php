@@ -14,7 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-
 Route::get('/', 'TaskController@getTasks');
 
 Route::post('/task', 'TaskController@postTasks');
